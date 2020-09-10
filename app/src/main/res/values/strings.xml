@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gads Practice Project</string>
+    <string name="submit">Submit</string>
+    <string name="learning">Learning Leaders</string>
+    <string name="skill">Skill IQ Leaders</string>
+    <string name="badge">badge</string>
+    <string name="logo">logo</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="checked_green">Checked Green</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="back">back</string>
+    <string name="first_name">First Name</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+</resources>
